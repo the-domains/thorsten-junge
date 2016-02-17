@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Thorsten Junge]]></title>
         <description><![CDATA[Thorsten Junge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thorsten-junge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 10:11:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 10:18:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thorsten-junge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arbeiten 4.0]]></title>
+            <description><![CDATA[<article><h1>Arbeiten 4.0</h1><p>Die deutschen KMUs werden die Möglichkeiten der "Industrie 4.0" nicht voll ausschöpfen können, solange sie die Grundlagen für "Arbeiten 4.0" nicht schaffen. Vielen Unternehmensstrukturen haben nicht die Vorraussetzungen für agiles Design Thinking und Innovationsschübe, da die Methoden und das Verständnis für die digitale Transformation fehlen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4923fc94eb2f27ad11edbc4a95e0eb9667da9b00.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thorsten-junge/arbeiten-40/index.html</link>
+            <guid isPermaLink="false">773d306b-46ca-4ad0-9042-7af1efe9e98d</guid>
+            <pubDate>Wed, 17 Feb 2016 10:17:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5591df8c-14c1-4a89-9b2b-fdc34a38d9a2.png">]]></description>
-            <link>undefined99ce2729-8ef0-4abf-8ba9-79f2baec0d92/index.html</link>
+            <link>https://thegrid.ai/thorsten-junge/99ce2729-8ef0-4abf-8ba9-79f2baec0d92/index.html</link>
             <guid isPermaLink="false">99ce2729-8ef0-4abf-8ba9-79f2baec0d92</guid>
             <pubDate>Wed, 17 Feb 2016 10:10:24 GMT</pubDate>
         </item>
